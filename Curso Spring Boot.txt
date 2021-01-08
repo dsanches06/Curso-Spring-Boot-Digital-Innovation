@@ -98,19 +98,21 @@ SPRING BOOT PROFILES
           +======================+
 
 CONFIGURAÇÕES COM ARQUIVOS PROPERTIES
--
+- formato base.propriedade.prop = valor
 
 LOMBOK
 - disponibiliza varias anotações para adicionar em tempo  de compilação
 - disponibiliza todas as propriedades do arquivo
-
 
           +======================+
           |                AULA 06                    |
           +======================+
 
 CONFIGURAÇÕES COM ARQUIVOS YAML
-- 
+- troca de formato de configurações: format .YML
+- formato base:
+                          propriedade: valor
+
 
 CONFIGURAÇÕES COM COMMAND LINE
 - 
