@@ -7,9 +7,7 @@ Curso framework Spring Boot Digital Innovation 2021
 
 
 
-​      +======================+
-​      |                AULA 01                 |
-​      +======================+
+<!-- =====================  AULA 01  ====================== -->
 
 
 
@@ -85,13 +83,12 @@ Curso framework Spring Boot Digital Innovation 2021
 
 - **@Setter** -> para gerar metodos modificadores dos atributos da classe fornecido pela dependencia lombok
 
-      
-      
-      +======================+
-      |                AULA 02                  |
-      +======================+
-      
-      
+  
+  
+  
+  ​    <!-- =====================  AULA 02  ====================== -->
+  
+   
 
 ##### CONFIGURAÇÃO MANUAL
 
@@ -111,13 +108,13 @@ Curso framework Spring Boot Digital Innovation 2021
 
 - identificação e configuração automatica da dependencia
 
-      
-      
-      +======================+
-      |                AULA 03                  |
-      +======================+
-      
-      
+  
+  ​    
+  
+  <!-- =====================  AULA 03  ====================== -->
+  
+  
+  ​    
 
 ##### ANTES DO SPRING BOOT
 
@@ -147,13 +144,13 @@ Curso framework Spring Boot Digital Innovation 2021
 
 - podemos também gerar o war tradicional
 
-      
-      
-      +======================+
-      |                AULA 04                  |
-      +======================+
-      
-      
+  
+  ​    
+  
+  <!-- =====================  AULA 04  ====================== -->
+  
+  
+  ​    
 
 ##### MULTIPLOS AMBIENTES
 
@@ -183,14 +180,13 @@ Curso framework Spring Boot Digital Innovation 2021
 
 - e depois ativa no **aplication.properties** -> **spring.profiles.active=dev**
 
-      
-      
-      +======================+
-      
-      |                AULA 05                 |
-      +======================+
-      
-      
+  
+  ​    
+  
+  <!-- =====================  AULA 05  ====================== -->
+  
+  
+  ​    
 
 ##### CONFIGURAÇÕES COM ARQUIVOS PROPERTIES
 
@@ -204,13 +200,13 @@ Curso framework Spring Boot Digital Innovation 2021
 
 - disponibiliza todas as propriedades do arquivo
 
-      
-      
-      +======================+
-      |                AULA 06                  |
-      +======================+
-      
-      
+  
+  ​    
+  
+  
+  
+  
+     <!-- =====================  AULA 06  ====================== --> 
 
 ##### CONFIGURAÇÕES COM ARQUIVOS YAML
 
@@ -218,12 +214,10 @@ Curso framework Spring Boot Digital Innovation 2021
 
 - formato `base:`
                                          `propriedade: valor`
-                      
-                      
 
-+======================+
-|                AULA 07                  |
-+======================+
+​                      
+
+<!-- =====================  AULA 07  ====================== -->
 
 
 
